@@ -23,3 +23,5 @@ Simple mod which can remove annoying messages:
 * `on` - enable Salt-remover. 
 
 * `state` - current state (enabled/disabled)
+    
+    at ur owned risk Notfuse#8963
